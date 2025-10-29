@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "This is the our jurnny and learnig of express with proper documentation ",
+  "homepage": "https://github.com/Gyasuddin0786/Express-Journy#readme",
+  "bugs": {
+    "url": "https://github.com/Gyasuddin0786/Express-Journy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gyasuddin0786/Express-Journy.git"
+  },
+  "license": "ISC",
+  "author": "Gyasuddin Ansari",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
